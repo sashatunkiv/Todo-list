@@ -1,3 +1,7 @@
+When creating this Todo list, the React.js library was used, useState hooks were used
+
+you can see the program at this link https://sashatunkiv.github.io/Todo-list/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
